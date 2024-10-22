@@ -66,7 +66,7 @@ A taxa de conversão de leads de 10% significa que, em média, 10% dos leads que
 Com o rápido crescimento do e-commerce no Brasil, entender profundamente as dinâmicas de vendas, comportamento do consumidor e os desafios logísticos se tornou vital para o sucesso das empresas. Este projeto de análise de dados do mercado brasileiro de e-commerce revela padrões, oferecendo insights práticos para otimizar operações e fortalecer a tomada de decisões estratégicas.
 Um exemplo de insights é: A categoria Cama, Mesa e Banho lidera em volume de vendas, enquanto Beleza e Saúde registra o maior faturamento, sugerindo que o valor por item nessa categoria é mais elevado. Esse diferencial indica que focar em produtos de alto valor agregado pode ser uma excelente estratégia para aumentar o faturamento sem necessariamente aumentar o volume de vendas. Já a categoria Esporte e Lazer apresentou uma demanda estável ao longo do ano, mostrando o interesse contínuo por produtos voltados ao bem-estar. Campanhas direcionadas para esse nicho podem ser uma ótima maneira de manter esse segmento ativo e engajado.
 
-Para mais insghts e recomendações acesse meu projeto do Medium, clicando [aqui!](https://medium.com/@israelaugusto681/analisando-dados-de-e-commerce-no-brasil-sql-802ed04b1886).
+Para mais insights e recomendações acesse meu projeto no Medium, clicando [aqui!](https://medium.com/@israelaugusto681/analisando-dados-de-e-commerce-no-brasil-sql-802ed04b1886).
 
 ## Contato
 Estou sempre aberto para sugestões e melhorias do trabalho! 
